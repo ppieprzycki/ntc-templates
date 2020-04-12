@@ -12,3 +12,7 @@ parsed_sample:
     age: "0"
     mac: "004c.6219.a0f3"
     interface: "Ethernet1"
+  - address: "192.168.144.144"
+    age: "N/A"
+    mac: "001c.73e1.9799"
+    interface: "Vlan144"
